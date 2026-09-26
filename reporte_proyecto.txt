@@ -1,0 +1,40 @@
+Listado de rutas de carpetas
+El n£mero de serie del volumen es 00000081 40C9:B3D8
+C:\USERS\PC\DOWNLOADS\EC0\EC0_APP\LIB
+|   main.dart
+|   
++---core
+|       app_theme.dart
+|       
++---data
+|       curriculum.dart
+|       exercise_helpers.dart
+|       initiation_data.dart
+|       letters_data.dart
+|       phrases_data.dart
+|       readings_data.dart
+|       vowels_data.dart
+|       words2_data.dart
+|       
++---models
+|       models.dart
+|       
++---screens
+|       exercise_runner.dart
+|       home_screen.dart
+|       lesson_list_screen.dart
+|       letter_lesson_screen.dart
+|       phrase_screen.dart
+|       reading_screen.dart
+|       slideshow_lesson_screen.dart
+|       word_pack_screen.dart
+|       
++---services
+|       progress_service.dart
+|       tts_service.dart
+|       
+\---widgets
+        buttons.dart
+        common.dart
+        feedback.dart
+        
